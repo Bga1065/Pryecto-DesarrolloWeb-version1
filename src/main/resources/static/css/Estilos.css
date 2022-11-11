@@ -1,0 +1,126 @@
+
+*{
+    margin: 0; /*lo junta todo*/
+    box-sizing: border-box; /**/
+    background-color: #D9BBA9;
+    
+}
+
+.body{
+    font-family: sans-serif;
+    padding: 90px 20px 0;
+    color: white;
+}
+
+.header {
+    background-color: white;
+    color: #8C472E;
+    height: 60px;
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+}
+
+.formulario{
+    box-sizing: border-box;
+    background-color: #BF6836;
+    color: white;
+    text-align: center;
+    width: 25%;
+    border: white;
+    border-radius: 8px;
+    padding: 12px 12px;
+}
+
+.footer{
+    background-color: white;
+    text-align: center;
+    color: #8C472E;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.Cajita{
+    box-sizing: border-box;
+    background-color: #8C472E;
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+
+.Cajota{
+    box-sizing: border-box;
+    background-color: #8C472E;
+    text-align: center;
+    width: 25%;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+
+.nav{
+    background-color: white;
+    color: #8C472E;
+    font-size: 20px;
+    line-height: 60px;
+    margin: 0 10px; /*arriba y abajo || derecha izquierda*/
+    justify-content: space-between;/*espacio entre menu y logo*/
+    text-decoration: none; /*quitar subrayado*/
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+
+.nav:hover {
+    background-color: #8C472E;
+    color: white;
+    font-size: 25px;
+    animation-delay: 1s;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+.niv{
+    background-color: white;
+    color: #8C472E;
+    font-size: 15px;
+    line-height: 60px;
+    margin: 0 10px; /*arriba y abajo || derecha izquierda*/
+    justify-content: space-between;/*espacio entre menu y logo*/
+    text-decoration: none; /*quitar subrayado*/
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+.niv:hover {
+    background-color: #8C472E;
+    color: white;
+    font-size: 20px;
+    animation-delay: 1s;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+.nov{
+    background-color: #D9A05B;
+    color: white;
+    font-size: 15px;
+    line-height: 60px;
+    margin: 0 10px; /*arriba y abajo || derecha izquierda*/
+    justify-content: space-between;/*espacio entre menu y logo*/
+    text-decoration: none; /*quitar subrayado*/
+    padding: 8px 12px;
+    border-radius: 8px;
+}
+.nov:hover {
+    background-color: #D9A05B;
+    color: white;
+    font-size: 20px;
+    animation-delay: 1s;
+    border-radius: 8px;
+    padding: 8px 12px;
+}
+.img{
+    border-radius: 8px;
+    padding: 12px 12px;
+    
+}
